@@ -1,5 +1,5 @@
 ### Hi there 👋
-### https://teachyourselfcs.com/
+### I would recommend this site if you want to learn some computer science by yourself. https://teachyourselfcs.com/
 <!--
 **wd30x/wd30x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
