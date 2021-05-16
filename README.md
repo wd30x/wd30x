@@ -1,9 +1,9 @@
 ### Hi there 👋
 ##### I would recommend this site if you want to learn some computer science by yourself. https://teachyourselfcs.com/
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=wd30x/wd30x)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wd30x&hide=perl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wd30x&hide=perl,Tex)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wd30x/wd30x)
 <!--
 **wd30x/wd30x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
