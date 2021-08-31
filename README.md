@@ -1,5 +1,4 @@
 ### Hi there 👋
-##### I would recommend this site if you want to learn some computer science by yourself. https://teachyourselfcs.com/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wd30x&hide=perl,Tex)
 
