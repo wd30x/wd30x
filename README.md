@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wd30x&layout=pie&langs_count=10&hide=perl)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wd30x&layout=pie&langs_count=10&hide=perl)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wd30x/wd30x)
 <!--
